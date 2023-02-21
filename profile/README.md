@@ -54,7 +54,7 @@ https://github.com/DiskTools/Contact
 
 Aim at providing a Universal Windows Contact Apps for mordern Windows.
 
-![image](https://user-images.githubusercontent.com/6630660/220339387-c42fcb6c-b981-460e-afe6-1b985b538fa0.png)
+
 
 
 
