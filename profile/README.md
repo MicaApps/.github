@@ -21,7 +21,7 @@ The new design follow the guide of Fluent Design System，with flexible，adapti
 
 ## ![image](https://user-images.githubusercontent.com/6630660/220338487-1d3949c9-8a41-4b01-9b4e-a3a32bfe505e.png)  Copy (Open Source)
 
-C++/D2D/WinUI3
+C++/Win2D/WinUI3
 
 https://github.com/HO-COOH/FastCopy
 
