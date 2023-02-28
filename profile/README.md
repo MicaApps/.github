@@ -5,6 +5,8 @@
 
 C++/C#/WinUI3
 
+https://github.com/DiskTools/DiskInfo
+
 CrystalDiskInfo is one of the most famous disk health monitoring tools in the world. It is free and open source, and is still actively maintained.
 
 https://github.com/hiyohiyo/CrystalDiskInfo
