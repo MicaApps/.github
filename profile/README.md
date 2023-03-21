@@ -20,7 +20,7 @@ Aim at providing a mordern appearance for DiskInfo
 The new design follow the guide of Fluent Design System，with flexible，adapting layout，and charming visual design
 
 
-## Visual Studio Code Redesign
+## ![vsc](https://user-images.githubusercontent.com/6630660/226527947-a733b347-ee56-43ce-a7f0-02acd54c922e.png) Visual Studio Code Redesign
 
 Electron/HTML/CSS/JS
 
