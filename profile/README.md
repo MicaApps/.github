@@ -38,6 +38,8 @@ C#/WinUI3
 
 Wireshark is the most famous network analysis tool in the world, and it is also open source.
 
+https://www.wireshark.org/
+
 Aims to provide Wireshark that conforms to the Windows 11 visual style.
 This includes two implementation paths:
 - One is to build a Windows 11-style QT skin and strive to be officially merged.
