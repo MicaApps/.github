@@ -31,7 +31,7 @@ This project aims to customize the appearance of VSC to match the Windows 11 des
 
 
 
-## Wireshark
+## ![wireshark](https://user-images.githubusercontent.com/6630660/226561895-2c4126c6-f238-4af5-85cf-ba1650364c6b.png)  Wireshark
 
 C++/QT
 C#/WinUI3
