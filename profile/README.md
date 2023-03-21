@@ -20,7 +20,7 @@ Aim at providing a mordern appearance for DiskInfo
 The new design follow the guide of Fluent Design System，with flexible，adapting layout，and charming visual design
 
 
-## ![vsc](https://user-images.githubusercontent.com/6630660/226527947-a733b347-ee56-43ce-a7f0-02acd54c922e.png) Visual Studio Code Redesign
+## ![vsc](https://user-images.githubusercontent.com/6630660/226527947-a733b347-ee56-43ce-a7f0-02acd54c922e.png) Visual Studio Code Redesign (Open Source)
 
 Electron/HTML/CSS/JS
 
@@ -33,7 +33,7 @@ This project aims to customize the appearance of VSC to match the Windows 11 des
 
 
 
-## ![wireshark](https://user-images.githubusercontent.com/6630660/226561895-2c4126c6-f238-4af5-85cf-ba1650364c6b.png)  Wireshark
+## ![wireshark](https://user-images.githubusercontent.com/6630660/226561895-2c4126c6-f238-4af5-85cf-ba1650364c6b.png)  Wireshark (Open Source)
 
 C++/QT
 C#/WinUI3
