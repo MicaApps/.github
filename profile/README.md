@@ -24,6 +24,8 @@ The new design follow the guide of Fluent Design System，with flexible，adapti
 
 Electron/HTML/CSS/JS
 
+Visual Studio Code's big names need no elaboration
+
 This project aims to customize the appearance of VSC to match the Windows 11 design style.
 
 ![image](https://user-images.githubusercontent.com/6630660/226525018-c09eeadf-5df5-4abb-a43c-41bbeba38e2c.png)
