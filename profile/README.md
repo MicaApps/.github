@@ -24,6 +24,8 @@ The new design follow the guide of Fluent Design System，with flexible，adapti
 
 Electron/HTML/CSS/JS
 
+https://github.com/DiskTools/Code-OSS
+
 Visual Studio Code's big names need no elaboration
 
 This project aims to customize the appearance of VSC to match the Windows 11 design style.
