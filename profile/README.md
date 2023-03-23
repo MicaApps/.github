@@ -40,6 +40,8 @@ This project aims to customize the appearance of VSC to match the Windows 11 des
 C++/QT
 C#/WinUI3
 
+https://github.com/DiskTools/Wireshark-Universal
+
 Wireshark is the most famous network analysis tool in the world, and it is also open source.
 
 https://www.wireshark.org/
