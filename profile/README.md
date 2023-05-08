@@ -78,7 +78,7 @@ https://github.com/DiskTools/Mail
 
 Aim at providing UWP Mail for Windows.
 
-![image](https://user-images.githubusercontent.com/6630660/220338830-864568bb-f200-46bc-b9aa-cb874766436f.png)
+![image](https://user-images.githubusercontent.com/6630660/236739734-e4355cfb-913c-47e3-a3d5-c4923353d84a.png)
 
 
 
