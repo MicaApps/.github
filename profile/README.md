@@ -20,6 +20,44 @@ Aim at providing a mordern appearance for DiskInfo
 The new design follow the guide of Fluent Design System，with flexible，adapting layout，and charming visual design
 
 
+## ![image](https://user-images.githubusercontent.com/6630660/220338487-1d3949c9-8a41-4b01-9b4e-a3a32bfe505e.png)  Copy (Open Source)
+
+C++/Win2D/WinUI3
+
+https://github.com/HO-COOH/FastCopy
+
+A GUI wrappers for Windows' built-in xcopy and robocopy
+
+![image](https://user-images.githubusercontent.com/6630660/220338397-d9e2f5b1-8e25-4c6d-9842-f8f7f5ed578d.png)
+
+![image](https://user-images.githubusercontent.com/6630660/220338421-d5287f9e-b1cd-4aaa-b365-9836f35d98a9.png)
+
+
+## ![image](https://user-images.githubusercontent.com/6630660/220338895-915ebd27-064c-4ce7-9755-eab889adbac7.png) Mail 
+
+C#/UWP
+
+https://github.com/DiskTools/Mail
+
+Aim at providing UWP Mail for Windows.
+
+![image](https://user-images.githubusercontent.com/6630660/236739734-e4355cfb-913c-47e3-a3d5-c4923353d84a.png)
+
+
+
+
+## Contact 
+
+C#/UWP
+
+https://github.com/DiskTools/Contact
+
+Aim at providing a Universal Windows Contact Apps for mordern Windows.
+
+
+
+
+
 ## ![vsc](https://user-images.githubusercontent.com/6630660/226527947-a733b347-ee56-43ce-a7f0-02acd54c922e.png) Visual Studio Code Redesign (Open Source)
 
 Electron/HTML/CSS/JS
@@ -56,40 +94,8 @@ This includes two implementation paths:
 
 
 
-## ![image](https://user-images.githubusercontent.com/6630660/220338487-1d3949c9-8a41-4b01-9b4e-a3a32bfe505e.png)  Copy (Open Source)
-
-C++/Win2D/WinUI3
-
-https://github.com/HO-COOH/FastCopy
-
-A GUI wrappers for Windows' built-in xcopy and robocopy
-
-![image](https://user-images.githubusercontent.com/6630660/220338397-d9e2f5b1-8e25-4c6d-9842-f8f7f5ed578d.png)
-
-![image](https://user-images.githubusercontent.com/6630660/220338421-d5287f9e-b1cd-4aaa-b365-9836f35d98a9.png)
 
 
-
-## ![image](https://user-images.githubusercontent.com/6630660/220338895-915ebd27-064c-4ce7-9755-eab889adbac7.png) Mail 
-
-C#/UWP
-
-https://github.com/DiskTools/Mail
-
-Aim at providing UWP Mail for Windows.
-
-![image](https://user-images.githubusercontent.com/6630660/236739734-e4355cfb-913c-47e3-a3d5-c4923353d84a.png)
-
-
-
-
-## Contact 
-
-C#/UWP
-
-https://github.com/DiskTools/Contact
-
-Aim at providing a Universal Windows Contact Apps for mordern Windows.
 
 
 
