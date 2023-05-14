@@ -66,7 +66,7 @@ https://github.com/DiskTools/InkBall
 
 Aim at providing InkBall game in Windows Vista and Windows XP for Windows 10/11
 
-![image](https://user-images.githubusercontent.com/6630660/224464358-b118ae88-c639-4d1e-8902-989b793fa530.png)
+![image](https://github.com/DiskTools/.github/assets/6630660/71158b6a-989b-42e5-803a-2f4096e627b3)
 
 
 
