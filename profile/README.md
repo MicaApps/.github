@@ -69,6 +69,14 @@ Aim at providing InkBall game in Windows Vista and Windows XP for Windows 10/11
 ![image](https://github.com/DiskTools/.github/assets/6630660/71158b6a-989b-42e5-803a-2f4096e627b3)
 
 
+## ![image](https://user-images.githubusercontent.com/6630660/220340501-e11a3736-0973-4b66-ab69-c7dcd1502ce4.png) EdgeEx(Open Source)
+
+C++/C#/UWP/WinUI3
+
+https://github.com/DiskTools/EdgeEx
+
+Aim at providing UWP style experience for Chromium
+![image](https://github.com/DiskTools/.github/assets/6630660/54484a25-2944-4834-b7ad-8b0b165b8950)
 
 
 ## ![vsc](https://user-images.githubusercontent.com/6630660/226527947-a733b347-ee56-43ce-a7f0-02acd54c922e.png) Visual Studio Code Redesign (Open Source)
@@ -129,18 +137,6 @@ You can copy many different types of image files at one time, Ventoy will displa
 USB Image Utility is WinUI3 Client for Ventoy.
 
 ![image](https://user-images.githubusercontent.com/6630660/220340053-663f48f5-6cf3-47c7-8472-43f57ab7f7ac.png)
-
-
-
-
-## ![image](https://user-images.githubusercontent.com/6630660/220340501-e11a3736-0973-4b66-ab69-c7dcd1502ce4.png) EdgeEx(Open Source)
-
-C++/C#/UWP/WinUI3
-
-https://github.com/DiskTools/EdgeEx
-
-Aim at providing UWP style experience for Chromium
-![_HHM52C88Q OIF`@PD2L@M1](https://user-images.githubusercontent.com/6630660/220341038-ef06d96b-1a8b-4a29-9652-d910cfbf683b.jpg)
 
 
 
