@@ -3,6 +3,14 @@
 
 ## ![image](https://user-images.githubusercontent.com/6630660/220341281-2469133b-e641-4c68-a5fb-25a0bf57c538.png) Disk Info (Open Source)
 
+<a style="margin-left:24px" href="https://www.microsoft.com/store/productId/9PLQ8DP73ZDF">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://get.microsoft.com/images/en-us%20light.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://get.microsoft.com/images/en-us%20dark.svg" />
+        <img style="vertical-align:middle" src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download DiskInfo" />
+    </picture>
+</a>
+
 C++/C#/WinUI3
 
 https://github.com/DiskTools/DiskInfo
