@@ -45,6 +45,14 @@ A GUI wrappers for Windows' built-in xcopy and robocopy
 
 ## ![image](https://user-images.githubusercontent.com/6630660/220338895-915ebd27-064c-4ce7-9755-eab889adbac7.png) Mail 
 
+<a style="margin-left:24px" href="[https://www.microsoft.com/store/productId/9PLQ8DP73ZDF](https://www.microsoft.com/store/productId/9NVMM1QDW3QB)">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://get.microsoft.com/images/en-us%20light.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://get.microsoft.com/images/en-us%20dark.svg" />
+        <img style="vertical-align:middle" src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download DiskInfo" />
+    </picture>
+</a>
+
 C#/UWP
 
 https://github.com/DiskTools/Mail
