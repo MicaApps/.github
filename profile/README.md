@@ -14,7 +14,7 @@
 
 C++/C#/WinUI3
 
-https://github.com/DiskTools/DiskInfo
+https://github.com/MicaCraft/DiskInfo
 
 CrystalDiskInfo is one of the most famous disk health monitoring tools in the world. It is free and open source, and is still actively maintained.
 
@@ -56,7 +56,7 @@ A GUI wrappers for Windows' built-in xcopy and robocopy
 
 C#/UWP
 
-https://github.com/DiskTools/Mail
+https://github.com/MicaCraft/Mail
 
 Aim at providing UWP Mail for Windows.
 
@@ -69,7 +69,7 @@ Aim at providing UWP Mail for Windows.
 
 C#/UWP
 
-https://github.com/DiskTools/Contact
+https://github.com/MicaCraft/Contact
 
 Aim at providing a Universal Windows Contact Apps for mordern Windows.
 
@@ -79,7 +79,7 @@ Aim at providing a Universal Windows Contact Apps for mordern Windows.
 
 C#/Unity
 
-https://github.com/DiskTools/InkBall
+https://github.com/MicaCraft/InkBall
 
 Aim at providing InkBall game in Windows Vista and Windows XP for Windows 10/11
 
@@ -90,7 +90,7 @@ Aim at providing InkBall game in Windows Vista and Windows XP for Windows 10/11
 
 C++/C#/UWP/WinUI3
 
-https://github.com/DiskTools/EdgeEx
+https://github.com/MicaCraft/EdgeEx
 
 Aim at providing UWP style experience for Chromium
 ![image](https://github.com/DiskTools/.github/assets/6630660/54484a25-2944-4834-b7ad-8b0b165b8950)
@@ -116,7 +116,7 @@ This project aims to customize the appearance of VSC to match the Windows 11 des
 C++/QT
 C#/WinUI3
 
-https://github.com/DiskTools/Wireshark-Universal
+https://github.com/MicaCraft/Wireshark-Universal
 
 Wireshark is the most famous network analysis tool in the world, and it is also open source.
 
