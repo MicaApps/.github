@@ -1,5 +1,5 @@
 # Organization
- this organization is the part of **[MicaCraft](https://github.com/MicaApps)**
+ this organization is the part of **[MicaCraft](https://github.com/MicaCraft)**
 
 # Works in Progress or Finished
 
