@@ -14,7 +14,7 @@
 
 C++/C#/WinUI3
 
-https://github.com/MicaCraft/DiskInfo
+https://github.com/MicaApps/DiskInfo
 
 CrystalDiskInfo is one of the most famous disk health monitoring tools in the world. It is free and open source, and is still actively maintained.
 
@@ -56,7 +56,7 @@ A GUI wrappers for Windows' built-in xcopy and robocopy
 
 C#/UWP
 
-https://github.com/MicaCraft/Mail
+https://github.com/MicaApps/Mail
 
 Aim at providing UWP Mail for Windows.
 
@@ -69,7 +69,7 @@ Aim at providing UWP Mail for Windows.
 
 C#/UWP
 
-https://github.com/MicaCraft/Contact
+https://github.com/MicaApps/Contact
 
 Aim at providing a Universal Windows Contact Apps for mordern Windows.
 
@@ -79,7 +79,7 @@ Aim at providing a Universal Windows Contact Apps for mordern Windows.
 
 C#/Unity
 
-[https://github.com/MicaCraft/InkBall](https://github.com/MicaGames/InkBall)
+[https://github.com/MicaApps/InkBall](https://github.com/MicaGames/InkBall)
 
 Aim at providing InkBall game in Windows Vista and Windows XP for Windows 10/11
 
@@ -90,7 +90,7 @@ Aim at providing InkBall game in Windows Vista and Windows XP for Windows 10/11
 
 C++/C#/UWP/WinUI3
 
-https://github.com/MicaCraft/EdgeEx
+https://github.com/MicaApps/EdgeEx
 
 Aim at providing UWP style experience for Chromium
 ![image](https://github.com/DiskTools/.github/assets/6630660/54484a25-2944-4834-b7ad-8b0b165b8950)
@@ -100,7 +100,7 @@ Aim at providing UWP style experience for Chromium
 
 Electron/HTML/CSS/JS
 
-https://github.com/MicaCraft/Code-OSS
+https://github.com/MicaApps/Code-OSS
 
 Visual Studio Code's big names need no elaboration
 
@@ -116,7 +116,7 @@ This project aims to customize the appearance of VSC to match the Windows 11 des
 C++/QT
 C#/WinUI3
 
-https://github.com/MicaCraft/Wireshark-Universal
+https://github.com/MicaApps/Wireshark-Universal
 
 Wireshark is the most famous network analysis tool in the world, and it is also open source.
 
@@ -143,9 +143,9 @@ This includes two implementation paths:
 
 C++/WinUI3
 
-https://github.com/MicaCraft/Ventoy
+https://github.com/MicaApps/Ventoy
 
-https://github.com/MicaCraft/USB-Image-Utility
+https://github.com/MicaApps/USB-Image-Utility
 
 Ventoy is an open source tool for making bootable USB drives.With Ventoy, you don’t need to format the USB flash drive repeatedly, you just need to copy ISO/WIM/IMG/VHD(x)/EFI and other types of files directly to the USB flash drive, and you can start without other operations.
 
@@ -166,6 +166,6 @@ USB Image Utility is WinUI3 Client for Ventoy.
 
 C#/UWP
 
-https://github.com/MicaCraft/Weather
+https://github.com/MicaApps/Weather
 
 ![image](https://user-images.githubusercontent.com/6630660/220357383-e5bda171-4321-4385-b90c-28ee739fa107.png)
