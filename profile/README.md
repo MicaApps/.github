@@ -79,7 +79,7 @@ Aim at providing a Universal Windows Contact Apps for mordern Windows.
 
 C#/Unity
 
-https://github.com/MicaCraft/InkBall
+[https://github.com/MicaCraft/InkBall](https://github.com/MicaGames/InkBall)
 
 Aim at providing InkBall game in Windows Vista and Windows XP for Windows 10/11
 
