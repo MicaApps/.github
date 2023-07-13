@@ -100,7 +100,7 @@ Aim at providing UWP style experience for Chromium
 
 Electron/HTML/CSS/JS
 
-https://github.com/DiskTools/Code-OSS
+https://github.com/MicaCraft/Code-OSS
 
 Visual Studio Code's big names need no elaboration
 
@@ -143,9 +143,9 @@ This includes two implementation paths:
 
 C++/WinUI3
 
-https://github.com/DiskTools/Ventoy
+https://github.com/MicaCraft/Ventoy
 
-https://github.com/DiskTools/USB-Image-Utility
+https://github.com/MicaCraft/USB-Image-Utility
 
 Ventoy is an open source tool for making bootable USB drives.With Ventoy, you don’t need to format the USB flash drive repeatedly, you just need to copy ISO/WIM/IMG/VHD(x)/EFI and other types of files directly to the USB flash drive, and you can start without other operations.
 
@@ -166,6 +166,6 @@ USB Image Utility is WinUI3 Client for Ventoy.
 
 C#/UWP
 
-https://github.com/DiskTools/Weather
+https://github.com/MicaCraft/Weather
 
 ![image](https://user-images.githubusercontent.com/6630660/220357383-e5bda171-4321-4385-b90c-28ee739fa107.png)
