@@ -101,48 +101,6 @@ Aim at providing UWP style experience for Chromium
 ![image](https://github.com/DiskTools/.github/assets/6630660/54484a25-2944-4834-b7ad-8b0b165b8950)
 
 
-## ![vsc](https://user-images.githubusercontent.com/6630660/226527947-a733b347-ee56-43ce-a7f0-02acd54c922e.png) Visual Studio Code Redesign (Open Source)
-
-Electron/HTML/CSS/JS
-
-https://github.com/MicaApps/Code-OSS
-
-Visual Studio Code's big names need no elaboration
-
-This project aims to customize the appearance of VSC to match the Windows 11 design style.
-
-![image](https://user-images.githubusercontent.com/6630660/226525018-c09eeadf-5df5-4abb-a43c-41bbeba38e2c.png)
-
-
-
-
-## ![wireshark](https://user-images.githubusercontent.com/6630660/226561895-2c4126c6-f238-4af5-85cf-ba1650364c6b.png)  Wireshark (Open Source)
-
-C++/QT
-C#/WinUI3
-
-https://github.com/MicaApps/Wireshark-Universal
-
-Wireshark is the most famous network analysis tool in the world, and it is also open source.
-
-https://www.wireshark.org/
-
-Aims to provide Wireshark that conforms to the Windows 11 visual style.
-This includes two implementation paths:
-- One is to build a Windows 11-style QT skin and strive to be officially merged.
-- The second is to use UWP with full permissions, or WinUI3 to build a Wireshark appearance and connect it with C++ code.
-
-![image](https://user-images.githubusercontent.com/6630660/226527222-18c7c39f-067f-498f-9db7-71712912e0c9.png)
-
-
-
-
-
-
-
-
-
-
 
 ## ![image](https://user-images.githubusercontent.com/6630660/220339928-bcdbb6d4-1376-497a-8440-d631cb5e8168.png) USB-Image-Utility (Open Source)
 
