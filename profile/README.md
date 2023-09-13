@@ -125,8 +125,6 @@ USB Image Utility is WinUI3 Client for Ventoy.
 
 
 
-
-
 ## ![image](https://user-images.githubusercontent.com/6630660/220357134-cd6f8400-c6b0-490f-bd07-ff250f5c85bd.png) Weather
 
 C#/UWP
@@ -134,3 +132,15 @@ C#/UWP
 https://github.com/MicaApps/Weather
 
 ![image](https://user-images.githubusercontent.com/6630660/220357383-e5bda171-4321-4385-b90c-28ee739fa107.png)
+
+
+
+
+
+## ![image](https://github.com/MicaApps/.github/assets/6630660/7bb1950b-9497-4546-b65a-970d75a91746) News
+
+C#/UWP
+
+https://github.com/MicaApps/News3
+
+![image](https://github.com/MicaApps/.github/assets/6630660/cc393984-5be7-4368-b300-be04e9807505)
