@@ -98,7 +98,8 @@ C++/C#/UWP/WinUI3
 https://github.com/MicaApps/EdgeEx
 
 Aim at providing UWP style experience for Chromium
-![image](https://github.com/DiskTools/.github/assets/6630660/54484a25-2944-4834-b7ad-8b0b165b8950)
+![image](https://github.com/MicaApps/.github/assets/6630660/f1000cfe-1a7b-4908-a325-a566a40193a9)
+
 
 
 
