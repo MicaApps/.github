@@ -88,7 +88,8 @@ https://www.microsoft.com/store/productId/9NBK1BJ87MCF
 
 Aim at providing InkBall game in Windows Vista and Windows XP for Windows 10/11
 
-![image](https://github.com/DiskTools/.github/assets/6630660/71158b6a-989b-42e5-803a-2f4096e627b3)
+![image](https://github.com/MicaApps/.github/assets/6630660/f7d51aa0-aa51-4b27-9c31-28744632db4a)
+
 
 
 ## ![image](https://user-images.githubusercontent.com/6630660/220340501-e11a3736-0973-4b66-ab69-c7dcd1502ce4.png) EdgeEx(Open Source)
