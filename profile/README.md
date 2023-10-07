@@ -41,7 +41,6 @@ https://github.com/HO-COOH/FastCopy
 
 A GUI wrappers for Windows' built-in xcopy and robocopy
 
-![image](https://user-images.githubusercontent.com/6630660/220338397-d9e2f5b1-8e25-4c6d-9842-f8f7f5ed578d.png)
 
 ![image](https://user-images.githubusercontent.com/6630660/220338421-d5287f9e-b1cd-4aaa-b365-9836f35d98a9.png)
 
