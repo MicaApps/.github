@@ -87,7 +87,7 @@ https://www.microsoft.com/store/productId/9NBK1BJ87MCF
 
 Aim at providing InkBall game in Windows Vista and Windows XP for Windows 10/11
 
-![image](https://github.com/MicaApps/.github/assets/6630660/f7d51aa0-aa51-4b27-9c31-28744632db4a)
+<img src=https://github.com/MicaApps/.github/assets/6630660/f7d51aa0-aa51-4b27-9c31-28744632db4a width=350 />
 
 
 
