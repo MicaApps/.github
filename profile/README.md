@@ -142,4 +142,4 @@ C#/UWP
 
 https://github.com/MicaApps/News3
 
-<img src=https://github.com/MicaApps/.github/assets/6630660/cc393984-5be7-4368-b300-be04e9807505 wideth=400 />
+<img src=https://github.com/MicaApps/.github/assets/6630660/cc393984-5be7-4368-b300-be04e9807505 width=450 />
