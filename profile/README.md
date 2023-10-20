@@ -35,9 +35,11 @@ The new design follow the guide of Fluent Design System，with flexible，adapti
 
 https://github.com/HO-COOH/WinUIEssentials
 
+A repo dedicated for simplifying C++ development with WinUI2 (Universal Windows Platform) and WinUI3 (Windows App SDK).
+
 <img width="901" alt="5d990cb656c3310f70c2672811833577" src="https://github.com/MicaApps/.github/assets/6630660/91951d94-a347-411e-bb3e-0edb0b14f4de">
 
-A repo dedicated for simplifying C++ development with WinUI2 (Universal Windows Platform) and WinUI3 (Windows App SDK).
+
 
 
 
