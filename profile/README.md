@@ -41,6 +41,13 @@ A repo dedicated for simplifying C++ development with WinUI2 (Universal Windows 
 
 
 
+## ![7z](https://github.com/MicaApps/7z.WinUI3.CSharp/assets/6630660/f5a30a5b-5f20-4242-8ed2-a3cb12e23081) 7z.WinUI3.CSharp
+
+This project aims to provide a modern UI partial to 7z
+
+<img src=https://github.com/MicaApps/7z.WinUI3.CSharp/assets/6630660/0f79642a-6864-4ca6-9c3e-9174ff1c2ca8 width=350/>
+
+
 
 
 ## ![image](https://user-images.githubusercontent.com/6630660/220338487-1d3949c9-8a41-4b01-9b4e-a3a32bfe505e.png)  Copy (Open Source)
