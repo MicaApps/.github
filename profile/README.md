@@ -31,7 +31,7 @@ Aim at providing a mordern appearance for DiskInfo
 
 The new design follow the guide of Fluent Design System，with flexible，adapting layout，and charming visual design
 
-# ![C++ CommunityToolkit-1](https://github.com/MicaApps/.github/assets/6630660/5e79aa30-64e9-4975-b0e7-79789f938561) C++ Community Toolkit
+# ![C++ CommunityToolkit-1](https://github.com/MicaApps/.github/assets/6630660/5e79aa30-64e9-4975-b0e7-79789f938561) C++ Community Toolkit(Open Sources)
 
 https://github.com/HO-COOH/WinUIEssentials
 
