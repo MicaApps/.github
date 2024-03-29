@@ -41,17 +41,6 @@ A repo dedicated for simplifying C++ development with WinUI2 (Universal Windows 
 
 
 
-## ![7z](https://github.com/MicaApps/7z.WinUI3.CSharp/assets/6630660/f5a30a5b-5f20-4242-8ed2-a3cb12e23081) 7z.WinUI3.CSharp
-
-C++/C#/WinUI3
-
-https://github.com/MicaApps/7z.WinUI3.CSharp
-
-This project aims to provide a modern UI partial to 7z
-
-<img src=https://github.com/MicaApps/7z.WinUI3.CSharp/assets/6630660/0f79642a-6864-4ca6-9c3e-9174ff1c2ca8 width=350/>
-
-
 
 
 ## ![image](https://user-images.githubusercontent.com/6630660/220338487-1d3949c9-8a41-4b01-9b4e-a3a32bfe505e.png)  Copy (Open Source)
@@ -83,7 +72,8 @@ https://github.com/MicaApps/Mail
 
 Aim at providing UWP Mail for Windows.
 
-![image](https://user-images.githubusercontent.com/6630660/236739734-e4355cfb-913c-47e3-a3d5-c4923353d84a.png)
+![image](https://github.com/MicaApps/.github/assets/6630660/cc69d6bd-1092-4ee7-93e0-7a6a8a691ea0)
+
 
 
 
