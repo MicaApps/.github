@@ -72,7 +72,7 @@ https://github.com/MicaApps/Mail
 
 Aim at providing UWP Mail for Windows.
 
-![image](https://github.com/MicaApps/.github/assets/6630660/cc69d6bd-1092-4ee7-93e0-7a6a8a691ea0)
+![image](https://github.com/MicaApps/.github/assets/6630660/6fc49366-27b4-4cf9-9ffb-4a689aee3554)
 
 
 
