@@ -40,6 +40,15 @@ A repo dedicated for simplifying C++ development with WinUI2 (Universal Windows 
 <img width="400" alt="5d990cb656c3310f70c2672811833577" src="https://github.com/MicaApps/.github/assets/6630660/91951d94-a347-411e-bb3e-0edb0b14f4de">
 
 
+## ![image](https://private-user-images.githubusercontent.com/6630660/320202919-a3dfc68b-f349-4a78-9584-8c9e0aec3480.png) Tempest
+
+Electron
+
+https://github.com/MicaApps/Tempest
+
+A cross-platform, cloud-synchronized, privacy and security-first terminal.
+![image](https://github.com/MicaApps/.github/assets/6630660/1219b072-dbef-4570-9144-45f59f21b530)
+
 
 
 
