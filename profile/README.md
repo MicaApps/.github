@@ -34,7 +34,7 @@ The new design follow the guide of Fluent Design System，with flexible，adapti
 
 
 
-## ![image](![image](https://github.com/MicaApps/.github/assets/6630660/cb21a286-7da7-4005-b08a-d22ea2da6b44) Tempest
+## ![image](https://github.com/MicaApps/.github/assets/6630660/cb21a286-7da7-4005-b08a-d22ea2da6b44) Tempest
 
 Electron
 
