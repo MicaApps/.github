@@ -31,6 +31,13 @@ Aim at providing a mordern appearance for DiskInfo
 
 The new design follow the guide of Fluent Design System，with flexible，adapting layout，and charming visual design
 
+## <img width="64" height="64" alt="CursorIcon2" src="https://github.com/user-attachments/assets/8b0cd167-9295-40b3-ae2b-8b19af75cf86" /> MouseTest (Open Source)
+
+C#/WinUI3
+
+Modernizing your mouse testing tools
+
+<img width="1290" height="884" alt="image" src="https://github.com/user-attachments/assets/7d235488-046f-4530-a4ed-ec93941b224e" />
 
 
 
