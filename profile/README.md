@@ -56,6 +56,15 @@ A cross-platform, cloud-synchronized, privacy and security-first terminal.
 
 ## ![C++ CommunityToolkit-1](https://github.com/MicaApps/.github/assets/6630660/5e79aa30-64e9-4975-b0e7-79789f938561) C++ Community Toolkit(Open Sources)
 
+<a style="margin-left:24px" href="[https://www.microsoft.com/store/productId/9PLQ8DP73ZDF](https://apps.microsoft.com/detail/9pcc690bcmt9?referrer=appbadge&mode=direct)">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://get.microsoft.com/images/en-us%20light.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://get.microsoft.com/images/en-us%20dark.svg" />
+        <img style="vertical-align:middle" src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download DiskInfo" />
+    </picture>
+</a>
+
+
 https://github.com/HO-COOH/WinUIEssentials
 
 A repo dedicated for simplifying C++ development with WinUI2 (Universal Windows Platform) and WinUI3 (Windows App SDK).
