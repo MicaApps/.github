@@ -80,6 +80,8 @@ A repo dedicated for simplifying C++ development with WinUI2 (Universal Windows 
 
 C++/Win2D/WinUI3
 
+https://github.com/HO-COOH/FastCopy
+
 A GUI wrapper for Windows' built-in `robocopy` ~~and `xcopy`~~.
 
 <a href="https://apps.microsoft.com/detail/9pkjk0bhnvfn?referrer=appbadge&mode=direct">
