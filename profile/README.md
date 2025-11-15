@@ -71,10 +71,11 @@ A repo dedicated for simplifying C++ development with WinUI2 (Universal Windows 
 
 C++/Win2D/WinUI3
 
-https://github.com/HO-COOH/FastCopy
+A GUI wrapper for Windows' built-in `robocopy` ~~and `xcopy`~~.
 
-A GUI wrappers for Windows' built-in xcopy and robocopy
-
+<a href="https://apps.microsoft.com/detail/9pkjk0bhnvfn?referrer=appbadge&mode=direct">
+	<img src="https://get.microsoft.com/images/en-us%20light.svg" width="200"/>
+</a>
 
 <img src=https://user-images.githubusercontent.com/6630660/220338421-d5287f9e-b1cd-4aaa-b365-9836f35d98a9.png width=350 />
 
