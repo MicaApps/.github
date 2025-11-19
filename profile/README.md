@@ -9,6 +9,8 @@ C# WinUI3
 
 [https://github.com/MicaApps/ResourceEditor.WinUI3](https://github.com/MicaApps/ResourceEditor.WinUI3)
 
+<img width="1532" height="1018" alt="image" src="https://github.com/user-attachments/assets/dee96418-a094-4cb8-8869-b7d7a43312a0" />
+
 ## ![image](https://user-images.githubusercontent.com/6630660/220341281-2469133b-e641-4c68-a5fb-25a0bf57c538.png) Disk Info (Open Source)
 
 <a style="margin-left:24px" href="https://www.microsoft.com/store/productId/9PLQ8DP73ZDF">
