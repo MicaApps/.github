@@ -3,11 +3,11 @@
 
 # Works in Progress or Finished
 
-## ![image](https://private-user-images.githubusercontent.com/6630660/515771803-d294c3cb-21b0-4100-a995-b7726522be85.png) Resource Editor (Open Source)
+## ![image](https://user-images.githubusercontent.com/6630660/515771803-d294c3cb-21b0-4100-a995-b7726522be85.png) Resource Editor (Open Source)
 
 C# WinUI3
 
-https://github.com/MicaApps/ResourceEditor.WinUI3
+[https://github.com/MicaApps/ResourceEditor.WinUI3](https://github.com/MicaApps/ResourceEditor.WinUI3)
 
 ## ![image](https://user-images.githubusercontent.com/6630660/220341281-2469133b-e641-4c68-a5fb-25a0bf57c538.png) Disk Info (Open Source)
 
