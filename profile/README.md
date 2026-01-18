@@ -48,6 +48,13 @@ Modernizing your mouse testing tools
 
 <img width="1290" height="884" alt="image" src="https://github.com/user-attachments/assets/7d235488-046f-4530-a4ed-ec93941b224e" />
 
+## <img width="64" height="64" alt="CursorIcon2" src="https://private-user-images.githubusercontent.com/6630660/537262970-d73b7efa-2389-4efd-8a9e-4c64f81114ed" /> MouseTest (Open Source)
+
+C#/WinUI3
+
+https://github.com/MicaApps/Types/
+
+![image](https://private-user-images.githubusercontent.com/6630660/537263129-86ab962f-3aa4-4fb5-8451-c4081f452778) 
 
 
 ## ![image](https://github.com/MicaApps/.github/assets/6630660/cb21a286-7da7-4005-b08a-d22ea2da6b44) Tempest
